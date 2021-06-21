@@ -1,6 +1,6 @@
 # QuakeTrack
 ## Introduction
-A basic app which fetches earthquake data from the USGS api, and then show them in a list.
+A basic app which fetches earthquake data from the USGS API[https://earthquake.usgs.gov/fdsnws/event/1/query], and then show them in a list.
 ## Features
 - Fetches data from the USGS earthquake API
 - Fetched data is shown in a list in the main activity
